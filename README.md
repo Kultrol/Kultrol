@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Kevin. I am a math and physics double major. I am currently working on data and actuarial science related projects that range from small exercises/learning projects to more developed projects.
+
 <!--
 **Kultrol/Kultrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -63,10 +63,10 @@ Editor and environment live in [**dotfile**](https://github.com/Kultrol/dotfile)
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kultrol&theme=github_dark" alt="Profile details" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kultrol&theme=github_dark" alt="Repos per language" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kultrol&theme=github_dark" alt="Most commit language" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kultrol&theme=github_dark" alt="Contribution stats" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kultrol&theme=github_light" alt="Profile details" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kultrol&theme=github_light" alt="Repos per language" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kultrol&theme=github_light" alt="Most commit language" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kultrol&theme=github_light" alt="Contribution stats" />
 
 <img height="165em" src="https://streak-stats.demolab.com/?user=Kultrol&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=8B949E&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=C9D1D9" alt="GitHub streak" />
 

@@ -63,10 +63,10 @@ Editor and environment live in [**dotfile**](https://github.com/Kultrol/dotfile)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kultrol&show_icons=true&theme=rose_pine&hide_border=true" alt="Kevin's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=Kultrol&theme=rose_pine&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kultrol&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=ffffff&icon_color=9ca3af&text_color=d1d5db&border_color=404040" alt="Kevin's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=Kultrol&hide_border=true&background=1A1A1A&stroke=404040&ring=FFFFFF&fire=9CA3AF&currStreakNum=FFFFFF&sideNums=D1D5DB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=D1D5DB" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kultrol&layout=compact&theme=rose_pine&hide_border=true" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kultrol&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=ffffff&text_color=d1d5db&border_color=404040" alt="Top languages" />
 
 </div>
 
@@ -76,7 +76,7 @@ Editor and environment live in [**dotfile**](https://github.com/Kultrol/dotfile)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kultrol&theme=rosepine&hide_border=true" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kultrol&theme=github-compact&hide_border=true&bg_color=1a1a1a&color=9ca3af&line=ffffff&point=ffffff&area=true" alt="Activity graph" />
 
 </div>
 

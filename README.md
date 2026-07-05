@@ -84,11 +84,4 @@ Editor and environment live in [**dotfile**](https://github.com/Kultrol/dotfile)
 
 ---
 
-## Connect
-
-- GitHub: [@Kultrol](https://github.com/Kultrol)
-- Flagship project: [mydash](https://github.com/Kultrol/mydash)
-
----
-
 *Last updated: July 2026*

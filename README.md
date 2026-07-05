@@ -3,7 +3,7 @@
 **Software engineer · math & physics · CLI tools & data systems**  
 Miami, FL · open to opportunities
 
-I build Python command-line tools and data-driven applications with an emphasis on clear architecture, reliable API integrations, and polished terminal UX. B.S. candidate in mathematics and physics — I like systems that are testable, layered, and honest about their trade-offs.
+I build Python command-line tools and data-driven applications with an emphasis on clear architecture, reliable API integrations, and polished terminal UX. B.S. in mathematics and physics — I like systems that are testable, layered, and honest about their trade-offs.
 
 My current focus is [mydash](https://github.com/Kultrol/mydash), a personal daily dashboard that aggregates weather, news, and market data in the terminal.
 

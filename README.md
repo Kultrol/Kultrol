@@ -27,7 +27,7 @@ My current focus is [mydash](https://github.com/Kultrol/mydash), a personal dail
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
-| [**mydash**](https://github.com/Kultrol/mydash) | Personal daily dashboard CLI — weather, news, and stock quotes in one terminal view. Three-layer architecture in active development. | Python, Typer, Rich, httpx, Pydantic |
+| [**mydash**](https://github.com/Kultrol/mydash) | Terminal daily dashboard — Phase 1 data correctness done; migrating toward three-layer CLI (services + renderers). | Python, Typer, Rich, httpx, Pydantic |
 | [**statcli**](https://github.com/Kultrol/statcli) | Point at a CSV from anywhere and get descriptive statistics for a chosen numeric column. | Python, CLI |
 | [**milikan_oil_simulation**](https://github.com/Kultrol/milikan_oil_simulation) | Simulates data generation for the Millikan oil-drop experiment — elementary charge measurement. | Python, physics |
 | [**dotfile**](https://github.com/Kultrol/dotfile) | Neovim-centric dev environment — terminal-first workflow. | Lua, Neovim |
@@ -36,11 +36,11 @@ My current focus is [mydash](https://github.com/Kultrol/mydash), a personal dail
 
 ## Currently building
 
-**[mydash](https://github.com/Kultrol/mydash)** — production-shaped terminal app on the [`phase_1`](https://github.com/Kultrol/mydash/tree/phase_1) branch:
+**[mydash](https://github.com/Kultrol/mydash)** on [`main`](https://github.com/Kultrol/mydash/tree/main):
 
-- Phase 1: P0 client correctness (weather day boundaries, cache semantics, HTTP timeouts)
-- Roadmap: services layer, config-driven CLI, domain renderers, `daily-brief` orchestration
-- Tracked on the [mydash Roadmap](https://github.com/users/Kultrol/projects/4) project board
+- Phase 1 client correctness **complete** (weather day boundaries, cache semantics, HTTP timeouts)
+- Recent refactor: shared `HttpApiClient`, provider-per-directory layout, preliminary domain errors
+- **Next focus:** services layer, config-driven CLI, Rich renderers, `daily-brief` orchestration
 
 ---
 

@@ -24,21 +24,25 @@ I learn best by shipping — dashboards, stats utilities, physics sims, and algo
 
 ### Featured projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Kultrol/mydash">
+    <img src="https://socialify.git.ci/Kultrol/mydash/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Solid&theme=Dark" alt="mydash" width="360" />
+  </a>
+  <a href="https://github.com/Kultrol/statcli">
+    <img src="https://socialify.git.ci/Kultrol/statcli/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Solid&theme=Dark" alt="statcli" width="360" />
+  </a>
+  <a href="https://github.com/Kultrol/one_dim_qmho">
+    <img src="https://socialify.git.ci/Kultrol/one_dim_qmho/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Solid&theme=Dark" alt="one_dim_qmho" width="360" />
+  </a>
+</p>
 
-<a href="https://github.com/Kultrol/mydash">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kultrol&repo=mydash&theme=dark&hide_border=true&show_owner=false" alt="mydash" />
-</a>
-<a href="https://github.com/Kultrol/statcli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kultrol&repo=statcli&theme=dark&hide_border=true&show_owner=false" alt="statcli" />
-</a>
-<a href="https://github.com/Kultrol/one_dim_qmho">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kultrol&repo=one_dim_qmho&theme=dark&hide_border=true&show_owner=false" alt="one_dim_qmho" />
-</a>
-
-</div>
-
-<br />
+<p align="center">
+  <a href="https://github.com/Kultrol/mydash"><strong>mydash</strong></a>
+  ·
+  <a href="https://github.com/Kultrol/statcli"><strong>statcli</strong></a>
+  ·
+  <a href="https://github.com/Kultrol/one_dim_qmho"><strong>one_dim_qmho</strong></a>
+</p>
 
 **Also around the place**
 
@@ -72,16 +76,15 @@ I learn best by shipping — dashboards, stats utilities, physics sims, and algo
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kultrol&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kultrol&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kultrol&theme=github_dark" alt="Profile details" />
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kultrol&theme=github_dark" alt="Repos per language" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kultrol&theme=github_dark" alt="Most commit language" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kultrol&theme=github_dark" alt="Contribution stats" />
 
 <br />
 
 <img height="165em" src="https://streak-stats.demolab.com/?user=Kultrol&theme=dark&hide_border=true" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kultrol&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true" alt="Activity graph" width="100%" />
 
 </div>
 

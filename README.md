@@ -38,9 +38,6 @@ I'm focused on **[mydash](https://github.com/Kultrol/mydash)** — a personal da
 <div align="center">
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kultrol&theme=github_dark" alt="Profile details" />
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kultrol&theme=github_dark" alt="Repos per language" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kultrol&theme=github_dark" alt="Most commit language" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kultrol&theme=github_dark" alt="Contribution stats" />
 
 <br />

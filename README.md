@@ -1,23 +1,5 @@
-<div align="center">
-
-# Hey, I'm Kevin 👋
-
-**Math & physics · software · CLI tools**  
+**Kevin J Medina** · math & physics · software · CLI tools  
 Miami, FL · open to opportunities
-
-</div>
-
----
-
-### About me
-
-I'm working through a B.S. in mathematics and physics, and I spend a lot of my free time building software — especially **Python CLI tools** and small data-driven apps.
-
-I care about **clear structure**, tests that actually catch things, and terminal UIs that feel good to use. I like layered designs and trying to be honest about trade-offs instead of papering over them.
-
-I learn best by shipping: a personal dashboard, quick stats utilities, physics simulations, and algorithm practice when I want the reps.
-
-Always happy to chat about math, physics, CLIs, or cool terminal setups — feel free to open an issue on a repo or reach out.
 
 ---
 
@@ -29,6 +11,14 @@ I'm focused on **[mydash](https://github.com/Kultrol/mydash)** — a personal da
 | --- | --- |
 | **Where it stands** | Data layer is in solid shape (shared HTTP client, provider layout, growing tests & domain errors). The CLI still talks to clients directly and prints models. |
 | **What's next** | MVP for **services / orchestration** and **CLI / UI** (commands + Rich renderers), then deeper refactors once those paths work end-to-end. |
+
+---
+
+### About me
+
+Working through a B.S. in mathematics and physics. I build **Python CLI tools** and small data-driven apps with an eye for clear structure, solid tests, and terminal UX that feels good to use.
+
+I learn best by shipping — dashboards, stats utilities, physics sims, and algorithm practice when I want the reps. Happy to chat about math, physics, or CLIs anytime.
 
 ---
 

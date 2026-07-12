@@ -1,6 +1,17 @@
 **Kevin J Medina** · math & physics · software · CLI tools  
 Miami, FL · open to opportunities
 
+![Python](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-Neovim-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-CLI-2BAF9A?style=flat-square)
+![Rich](https://img.shields.io/badge/Rich-terminal_UI-FF69B4?style=flat-square)
+![httpx](https://img.shields.io/badge/httpx-HTTP-000000?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-schemas-E92063?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-testing-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![uv](https://img.shields.io/badge/uv-package_manager-DE5FE9?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
 ---
 
 ### About me
@@ -19,26 +30,6 @@ I'm focused on **[mydash](https://github.com/Kultrol/mydash)** — a personal da
 | --- | --- |
 | **Where it stands** | Data layer is in solid shape (shared HTTP client, provider layout, growing tests & domain errors). The CLI still talks to clients directly and prints models. |
 | **What's next** | MVP for **services / orchestration** and **CLI / UI** (commands + Rich renderers), then deeper refactors once those paths work end-to-end. |
-
----
-
-### Tech I use
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-Neovim-2C2D72?style=flat-square&logo=lua&logoColor=white)
-
-**CLI & data**  
-![Typer](https://img.shields.io/badge/Typer-CLI-2BAF9A?style=flat-square)
-![Rich](https://img.shields.io/badge/Rich-terminal_UI-FF69B4?style=flat-square)
-![httpx](https://img.shields.io/badge/httpx-HTTP-000000?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-schemas-E92063?style=flat-square)
-![pytest](https://img.shields.io/badge/pytest-testing-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-**Tooling**  
-![uv](https://img.shields.io/badge/uv-package_manager-DE5FE9?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 ---
 

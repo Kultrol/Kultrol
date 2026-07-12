@@ -22,36 +22,6 @@ I'm focused on **[mydash](https://github.com/Kultrol/mydash)** — a personal da
 
 ---
 
-### Featured projects
-
-<p align="center">
-  <a href="https://github.com/Kultrol/mydash">
-    <img src="https://socialify.git.ci/Kultrol/mydash/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Solid&theme=Dark" alt="mydash" width="360" />
-  </a>
-  <a href="https://github.com/Kultrol/statcli">
-    <img src="https://socialify.git.ci/Kultrol/statcli/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Solid&theme=Dark" alt="statcli" width="360" />
-  </a>
-  <a href="https://github.com/Kultrol/one_dim_qmho">
-    <img src="https://socialify.git.ci/Kultrol/one_dim_qmho/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Solid&theme=Dark" alt="one_dim_qmho" width="360" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kultrol/mydash"><strong>mydash</strong></a>
-  ·
-  <a href="https://github.com/Kultrol/statcli"><strong>statcli</strong></a>
-  ·
-  <a href="https://github.com/Kultrol/one_dim_qmho"><strong>one_dim_qmho</strong></a>
-</p>
-
-**Also around the place**
-
-- [**milikan_oil_simulation**](https://github.com/Kultrol/milikan_oil_simulation) — simulated Millikan oil-drop data for elementary charge
-- [**neetcode-submissions**](https://github.com/Kultrol/neetcode-submissions) · [**ds_practice**](https://github.com/Kultrol/ds_practice) — algorithms & data-science practice
-- [**dotfile**](https://github.com/Kultrol/dotfile) — Neovim config and terminal-first workflow
-
----
-
 ### Tech I use
 
 **Languages**  

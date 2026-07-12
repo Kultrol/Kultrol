@@ -1,87 +1,107 @@
-# Kevin J Medina
+<div align="center">
 
-**Software engineer · math & physics · CLI tools & data systems**  
+# Hey, I'm Kevin 👋
+
+**Math & physics · software · CLI tools**  
 Miami, FL · open to opportunities
 
-I build Python command-line tools and data-driven applications with an emphasis on clear architecture, reliable API integrations, and polished terminal UX. B.S. in mathematics and physics — I like systems that are testable, layered, and honest about their trade-offs.
-
-My current focus is [mydash](https://github.com/Kultrol/mydash), a personal daily dashboard that aggregates weather, news, and market data in the terminal.
+</div>
 
 ---
 
-## Tech stack
+### About me
 
-![Python](https://img.shields.io/badge/Python-3.14+-3776AB?logo=python&logoColor=white)
-![Typer](https://img.shields.io/badge/Typer-CLI-2BAF9A)
-![Rich](https://img.shields.io/badge/Rich-terminal_UI-FF69B4)
-![Pydantic](https://img.shields.io/badge/Pydantic-schemas-E92063)
-![httpx](https://img.shields.io/badge/httpx-HTTP-000000)
-![pytest](https://img.shields.io/badge/pytest-testing-0A9EDC?logo=pytest&logoColor=white)
-![uv](https://img.shields.io/badge/uv-package_manager-DE5FE9)
-![Lua](https://img.shields.io/badge/Lua-Neovim-2C2D72?logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-version_control-F05032?logo=git&logoColor=white)
+I'm working through a B.S. in mathematics and physics, and I spend a lot of my free time building software — especially **Python CLI tools** and small data-driven apps.
+
+I care about **clear structure**, tests that actually catch things, and terminal UIs that feel good to use. I like layered designs and trying to be honest about trade-offs instead of papering over them.
+
+I learn best by shipping: a personal dashboard, quick stats utilities, physics simulations, and algorithm practice when I want the reps.
+
+Always happy to chat about math, physics, CLIs, or cool terminal setups — feel free to open an issue on a repo or reach out.
 
 ---
 
-## Featured projects
+### Right now
 
-| Project | Description | Stack |
-| ------- | ----------- | ----- |
-| [**mydash**](https://github.com/Kultrol/mydash) | Terminal daily dashboard — Phase 1 data correctness done; migrating toward three-layer CLI (services + renderers). | Python, Typer, Rich, httpx, Pydantic |
-| [**statcli**](https://github.com/Kultrol/statcli) | Point at a CSV from anywhere and get descriptive statistics for a chosen numeric column. | Python, CLI |
-| [**milikan_oil_simulation**](https://github.com/Kultrol/milikan_oil_simulation) | Simulates data generation for the Millikan oil-drop experiment — elementary charge measurement. | Python, physics |
-| [**dotfile**](https://github.com/Kultrol/dotfile) | Neovim-centric dev environment — terminal-first workflow. | Lua, Neovim |
+I'm focused on **[mydash](https://github.com/Kultrol/mydash)** — a personal daily dashboard in the terminal that pulls weather, news, and market data from public APIs.
 
----
-
-## Currently building
-
-**[mydash](https://github.com/Kultrol/mydash)** on [`main`](https://github.com/Kultrol/mydash/tree/main):
-
-- Phase 1 client correctness **complete** (weather day boundaries, cache semantics, HTTP timeouts)
-- Recent refactor: shared `HttpApiClient`, provider-per-directory layout, preliminary domain errors
-- **Next focus:** services layer, config-driven CLI, Rich renderers, `daily-brief` orchestration
+| | |
+| --- | --- |
+| **Where it stands** | Data layer is in solid shape (shared HTTP client, provider layout, growing tests & domain errors). The CLI still talks to clients directly and prints models. |
+| **What's next** | MVP for **services / orchestration** and **CLI / UI** (commands + Rich renderers), then deeper refactors once those paths work end-to-end. |
 
 ---
 
-## Learning & practice
-
-Intentional reps alongside shipped projects:
-
-- [**neetcode-submissions**](https://github.com/Kultrol/neetcode-submissions) — algorithms and data structures
-- [**ds_practice**](https://github.com/Kultrol/ds_practice) — data science exercises and notebooks
-
----
-
-## Tooling
-
-Editor and environment live in [**dotfile**](https://github.com/Kultrol/dotfile) — Neovim config, terminal-first setup, tuned for daily Python and CLI work.
-
----
-
-## GitHub stats
+### Featured projects
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kultrol&theme=github_dark" alt="Profile details" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kultrol&theme=github_dark" alt="Repos per language" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kultrol&theme=github_dark" alt="Most commit language" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kultrol&theme=github_dark" alt="Contribution stats" />
+<a href="https://github.com/Kultrol/mydash">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kultrol&repo=mydash&theme=dark&hide_border=true&show_owner=false" alt="mydash" />
+</a>
+<a href="https://github.com/Kultrol/statcli">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kultrol&repo=statcli&theme=dark&hide_border=true&show_owner=false" alt="statcli" />
+</a>
+<a href="https://github.com/Kultrol/one_dim_qmho">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kultrol&repo=one_dim_qmho&theme=dark&hide_border=true&show_owner=false" alt="one_dim_qmho" />
+</a>
 
-<img height="165em" src="https://streak-stats.demolab.com/?user=Kultrol&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=8B949E&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=C9D1D9" alt="GitHub streak" />
+</div>
+
+<br />
+
+**Also around the place**
+
+- [**milikan_oil_simulation**](https://github.com/Kultrol/milikan_oil_simulation) — simulated Millikan oil-drop data for elementary charge
+- [**neetcode-submissions**](https://github.com/Kultrol/neetcode-submissions) · [**ds_practice**](https://github.com/Kultrol/ds_practice) — algorithms & data-science practice
+- [**dotfile**](https://github.com/Kultrol/dotfile) — Neovim config and terminal-first workflow
+
+---
+
+### Tech I use
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-Neovim-2C2D72?style=flat-square&logo=lua&logoColor=white)
+
+**CLI & data**  
+![Typer](https://img.shields.io/badge/Typer-CLI-2BAF9A?style=flat-square)
+![Rich](https://img.shields.io/badge/Rich-terminal_UI-FF69B4?style=flat-square)
+![httpx](https://img.shields.io/badge/httpx-HTTP-000000?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-schemas-E92063?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-testing-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+**Tooling**  
+![uv](https://img.shields.io/badge/uv-package_manager-DE5FE9?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
+---
+
+### GitHub stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kultrol&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kultrol&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+
+<br />
+
+<img height="165em" src="https://streak-stats.demolab.com/?user=Kultrol&theme=dark&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kultrol&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true" alt="Activity graph" width="100%" />
 
 </div>
 
 ---
 
-## Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kultrol&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true" alt="Activity graph" />
-
-</div>
-
----
+**Thanks for stopping by!**  
+[GitHub](https://github.com/Kultrol) · [physicskev@outlook.com](mailto:physicskev@outlook.com)
 
 *Last updated: July 2026*
+
+</div>

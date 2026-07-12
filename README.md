@@ -3,6 +3,14 @@ Miami, FL · open to opportunities
 
 ---
 
+### About me
+
+Working through a B.S. in mathematics and physics. I build **Python CLI tools** and small data-driven apps with an eye for clear structure, solid tests, and terminal UX that feels good to use.
+
+I learn best by shipping — dashboards, stats utilities, physics sims, and algorithm practice when I want the reps. Happy to chat about math, physics, or CLIs anytime.
+
+---
+
 ### Right now
 
 I'm focused on **[mydash](https://github.com/Kultrol/mydash)** — a personal daily dashboard in the terminal that pulls weather, news, and market data from public APIs.
@@ -11,14 +19,6 @@ I'm focused on **[mydash](https://github.com/Kultrol/mydash)** — a personal da
 | --- | --- |
 | **Where it stands** | Data layer is in solid shape (shared HTTP client, provider layout, growing tests & domain errors). The CLI still talks to clients directly and prints models. |
 | **What's next** | MVP for **services / orchestration** and **CLI / UI** (commands + Rich renderers), then deeper refactors once those paths work end-to-end. |
-
----
-
-### About me
-
-Working through a B.S. in mathematics and physics. I build **Python CLI tools** and small data-driven apps with an eye for clear structure, solid tests, and terminal UX that feels good to use.
-
-I learn best by shipping — dashboards, stats utilities, physics sims, and algorithm practice when I want the reps. Happy to chat about math, physics, or CLIs anytime.
 
 ---
 

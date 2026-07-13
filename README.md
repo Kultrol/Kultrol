@@ -18,7 +18,7 @@ Miami, FL · open to opportunities
 
 Working through a B.S. in mathematics and physics. I build **Python CLI tools** and small data-driven apps with an eye for clear structure, solid tests, and terminal UX that feels good to use.
 
-I learn best by shipping — dashboards, stats utilities, physics sims, and algorithm practice when I want the reps. Happy to chat about math, physics, or CLIs anytime.
+I learn best by shipping — dashboards, stats utilities, physics sims, and algorithm practice.  Happy to chat about math, physics, or CLIs anytime.
 
 ---
 

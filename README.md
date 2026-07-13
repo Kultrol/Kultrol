@@ -24,12 +24,19 @@ I learn best by shipping — dashboards, stats utilities, physics sims, and algo
 
 ### Right now
 
-I'm focused on **[mydash](https://github.com/Kultrol/mydash)** — a personal daily dashboard in the terminal that pulls weather, news, and market data from public APIs.
+I'm shipping **[mydash](https://github.com/Kultrol/mydash)** — a terminal daily brief (weather, news, markets) with a clean **CLI → services → clients** layout and Rich panels.
 
 | | |
 | --- | --- |
-| **Where it stands** | Data layer is in solid shape (shared HTTP client, provider layout, growing tests & domain errors). The CLI still talks to clients directly and prints models. |
-| **What's next** | MVP for **services / orchestration** and **CLI / UI** (commands + Rich renderers), then deeper refactors once those paths work end-to-end. |
+| **Where it stands** | **[v0.5.0 MVP](https://github.com/Kultrol/mydash/releases/tag/v0.5.0)** is out: one command (`mydash brief`), three stacked panels, installable from the GitHub Release wheel. Intentional demo limits (hardcoded city/symbols/category). |
+| **What's next** | Path to **1.0**: user config, CLI polish, solid data-layer edges, and stronger tests/docs — still a terminal app first. |
+
+Quick try:
+
+```bash
+pip install https://github.com/Kultrol/mydash/releases/download/v0.5.0/mydash-0.5.0-py3-none-any.whl
+mydash brief
+```
 
 ---
 

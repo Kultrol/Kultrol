@@ -1,41 +1,49 @@
-**Kevin J Medina** · math & physics · software · CLI tools  
-Miami, FL · open to opportunities
+**Kevin J Medina** · backend & full-stack software · Miami, FL
+B.S. Physics + Mathematics, **graduating December 2026** · looking for new-grad software engineering roles
 
-![Python](https://img.shields.io/badge/Python-3.14+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-Neovim-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Typer](https://img.shields.io/badge/Typer-CLI-2BAF9A?style=flat-square)
-![Rich](https://img.shields.io/badge/Rich-terminal_UI-FF69B4?style=flat-square)
-![httpx](https://img.shields.io/badge/httpx-HTTP-000000?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-schemas-E92063?style=flat-square)
-![pytest](https://img.shields.io/badge/pytest-testing-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![uv](https://img.shields.io/badge/uv-package_manager-DE5FE9?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=astral&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 ---
 
 ### About me
 
-Working through a B.S. in mathematics and physics. I build **Python CLI tools** and small data-driven apps with an eye for clear structure, solid tests, and terminal UX that feels good to use.
+I'm finishing a B.S. in physics with a second major in mathematics, and moving into software engineering. Most of what I build is **Python on the backend** — FastAPI services, CLI tools, data plumbing — with an eye for clear layering, real tests, and interfaces that are pleasant to actually use.
 
-I learn best by shipping — dashboards, stats utilities, physics sims, and algorithm practice.  Happy to chat about math, physics, or CLIs anytime.
+I learn by shipping and then going back to fix what I got wrong: dashboards, deployment pipelines, stats utilities, physics simulations, and algorithm practice. Happy to talk about math, physics, or terminal tooling anytime.
 
 ---
 
-### Right now
+### Featured work
 
-I'm shipping **[mydash](https://github.com/Kultrol/mydash)** — a terminal daily brief (weather, news, markets) with a clean **CLI → services → clients** layout and Rich panels.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[mydash](https://github.com/Kultrol/mydash)** · [`v1.0.0`](https://github.com/Kultrol/mydash/releases/tag/v1.0.0) | A terminal daily brief — weather, news, and markets in one command. Panels fetch concurrently and fail independently, so one dead provider never costs you the rest of the dashboard. | Python · Typer · Rich · httpx · pytest · GitHub Actions |
+| **[first-deployment](https://github.com/Kultrol/first-deployment)** | A containerized FastAPI service with Postgres, Alembic migrations, a separate test database, health-checked services, and CI on every push. Built to learn the deployment half of the job properly. | FastAPI · SQLAlchemy · Alembic · PostgreSQL · Docker Compose · pytest |
+| **[huntly](https://github.com/Kultrol/huntly)** | A job-application tracker. React + TypeScript frontend against a Python API. Early, and in active development. | React · TypeScript · Vite · Python |
+| **[ytad](https://github.com/Kultrol/yt-audio-downloader)** | Turns a YouTube concert or live set into a properly tagged M4A album — chapter detection, an editable `album.json` as the source of truth, ffmpeg splitting and AAC encoding. | Python · yt-dlp · ffmpeg |
+| **[statcli](https://github.com/Kultrol/statcli)** | Descriptive statistics for any numeric column in a CSV, with every statistic implemented from scratch on the standard library. | Python (stdlib only) |
 
-| | |
-| --- | --- |
-| **Where it stands** | **[v0.5.0 MVP](https://github.com/Kultrol/mydash/releases/tag/v0.5.0)** is out: one command (`mydash brief`), three stacked panels, installable from the GitHub Release wheel. Intentional demo limits (hardcoded city/symbols/category). |
-| **What's next** | Path to **1.0**: user config, CLI polish, solid data-layer edges, and stronger tests/docs — still a terminal app first. |
+Also here: [algorithm practice](https://github.com/Kultrol/neetcode-submissions), a [quantum harmonic oscillator plotter](https://github.com/Kultrol/one_dim_qmho), a [Millikan oil-drop simulation](https://github.com/Kultrol/milikan_oil_simulation), and my [Neovim config](https://github.com/Kultrol/dotfile).
 
-Quick try:
+---
+
+### Try mydash
 
 ```bash
-pip install https://github.com/Kultrol/mydash/releases/download/v0.5.0/mydash-0.5.0-py3-none-any.whl
-mydash brief
+pip install https://github.com/Kultrol/mydash/releases/download/v1.0.0/mydash-1.0.0-py3-none-any.whl
+mydash
 ```
 
 ---
@@ -57,9 +65,9 @@ mydash brief
 
 <div align="center">
 
-**Thanks for stopping by!**  
-[GitHub](https://github.com/Kultrol) · [physicskev@outlook.com](mailto:physicskev@outlook.com)
+**Thanks for stopping by!**
+[LinkedIn](https://linkedin.com/in/kevin-medina-1b372b177) · [LeetCode](https://leetcode.com/u/kultrol) · [physicskev@outlook.com](mailto:physicskev@outlook.com)
 
-*Last updated: July 2026*
+*Last updated: September 2026*
 
 </div>

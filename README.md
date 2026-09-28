@@ -1,4 +1,4 @@
-**Kevin J Medina** · backend & full-stack software · Miami, FL
+**Kevin J Medina** · full-stack software · Miami, FL
 B.S. Physics + Mathematics, **graduating December 2026** · looking for new-grad software engineering roles
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white)

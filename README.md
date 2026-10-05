@@ -1,4 +1,4 @@
-# Kevin J Medina
+# 👋 Kevin J Medina
 
 **Physics & Mathematics undergraduate → software engineering** · Miami, FL  
 Graduating **December 2026** · Seeking **new-grad software engineering roles**
@@ -7,13 +7,20 @@ I'm finishing a B.S. in Physics with a second major in Mathematics and moving in
 
 I'm learning the work around a service too: database migrations, automated tests, containers, and deployment workflows. I learn by building useful tools, then going back to improve what I got wrong.
 
-### What I'm working with
+### 🧰 What I'm working with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 - **Backend:** Python, FastAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL
 - **Engineering:** pytest, Docker / Docker Compose, GitHub Actions CI and release automation
 - **Frontend:** React, TypeScript, Vite
 
-### Featured work
+### 🚀 Featured work
 
 | Project | What I'm building |
 | --- | --- |

@@ -28,6 +28,7 @@ I'm learning the work around a service too: database migrations, automated tests
 | **[mydash](https://github.com/Kultrol/mydash)** | A terminal dashboard for weather, news, and markets. Concurrent API requests with independent failure handling, SQLite caching, automated tests, Docker support, and GitHub Actions release automation. |
 | **[ytad](https://github.com/Kultrol/yt-audio-downloader)** | A Python CLI that turns concert recordings into tagged M4A albums, using editable track metadata, yt-dlp, and ffmpeg. |
 | **[statcli](https://github.com/Kultrol/statcli)** | Descriptive statistics for numeric CSV columns, with the statistical functions written from scratch using Python's standard library. |
+| **[Titanic NumPy](https://github.com/Kultrol/titanic-numpy)** | Logistic regression and gradient descent implemented in NumPy for Kaggle's Titanic competition. Includes local validation, pytest tests, and a mathematics guide. Public score: [0.75598](https://www.kaggle.com/code/kultrol/titanic-submission-1-kultrol). |
 
 My physics and math projects include a [quantum harmonic oscillator plotter](https://github.com/Kultrol/one_dim_qmho) and a [Millikan oil-drop simulation](https://github.com/Kultrol/milikan_oil_simulation). I also keep up with [algorithm practice](https://github.com/Kultrol/neetcode-submissions) and tinker with [Neovim](https://github.com/Kultrol/dotfile).
 
